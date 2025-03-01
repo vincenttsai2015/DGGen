@@ -1,7 +1,6 @@
 # A Deep Probabilistic Framework for Continuous Time Dynamic Graph Generation
 
-This repository is the official implementation of *A Deep Probabilistic Framework for Continuous Time Dynamic Graph Generation*. Please note that this is an anonymized version of the implementation created for review purposes.
-
+This repository is the official implementation of *A Deep Probabilistic Framework for Continuous Time Dynamic Graph Generation*.
 ## Repository Structure
 
 This repository consists of the following top-level directories
