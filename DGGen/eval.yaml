@@ -1,0 +1,6 @@
+dggen_dir: './results/synthetic_data/'
+tigger_data_dir: './results/synthetic_data/tigger/'
+jodie_data_dir: './data/'
+cbs_data_file: "./data/202207-capitalbikeshare-tripdata.csv"
+tgn_data_dir: './DGB/DGB/tgn/'
+

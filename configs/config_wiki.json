@@ -1,0 +1,22 @@
+{
+    "name": "dggen-wiki",
+    "n_gpu": 1,
+    "num_neighbors": 200,
+    "batch_size": 10,
+    "n_sampled_src": None,
+    "n_sampled_dst": None,
+    "memory_dim": 76,
+    "time_dim": 300,
+    "embedding_dim": 100,
+    "feats_model_h_dim": 256,
+    "data_name": "wikipedia",
+    "data_path": "./data/",
+    "lr": 0.0007020715412896109,
+    "threshold_eps": 0.26817472365337847,
+    "threshold_epochs": 20,
+    "eps": 0.13511184477785318,
+    "num_feats": 25,
+    "n_comp": 16,
+    "num_epochs": 50,
+    "seed": 100
+}

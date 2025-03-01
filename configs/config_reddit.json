@@ -1,0 +1,22 @@
+{
+    "name": "dggen-reddit",
+    "n_gpu": 1,
+    "num_neighbors": 100,
+    "batch_size": 10,
+    "n_sampled_src": None,
+    "n_sampled_dst": None,
+    "memory_dim": 76,
+    "time_dim": 100,
+    "embedding_dim": 76,
+    "feats_model_h_dim": 64,
+    "data_name": "reddit",
+    "data_path": "./data/",
+    "lr": 0.000873006679536791,
+    "threshold_eps": 0.2669344567297299,
+    "threshold_epochs": 10,
+    "eps": 9.30092090963291,
+    "num_feats": 1,
+    "n_comp": 32,
+    "num_epochs": 50,
+    "seed": 100
+}
