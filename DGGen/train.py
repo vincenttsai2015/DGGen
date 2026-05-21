@@ -167,7 +167,6 @@ def main(config_path=None):
         test_ratio,
         different_new_nodes_between_val_and_test=different_new_nodes,
         randomize_features=randomize_features,
-        path="../DGB/tgn/",
     )
 
     train_temp_data = convert_dgb_data_to_pyg_TemporalData(
